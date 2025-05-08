@@ -1,0 +1,12 @@
+https://developer.atlassian.com/cloud/confluence/changelog
+https://community.developer.atlassian.com
+https://confluence.atlassian.com/doc/confluence-release-notes-327.html
+https://confluence.atlassian.com/enterprise/confluence-data-center-resources-612959393.html
+https://developer.atlassian.com/server/confluence
+https://docs.atlassian.com/atlassian-confluence
+https://docs.atlassian.com/confluence/REST/latest
+https://developer.microsoft.com/en-us/graph/changelog
+https://learn.microsoft.com/en-us/graph/api/resources/onenote-api-overview
+https://www.microsoft.com/en-us/microsoft-365/roadmap
+https://developer.microsoft.com/en-us/graph/blogs
+https://help.salesforce.com/s/articleView?id=release-notes.rn_ru.htm&release=244&type=5
